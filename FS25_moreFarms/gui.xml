@@ -1,0 +1,41 @@
+<texture>
+    <meta>
+        <filename>gui.dds</filename>
+        <size width="4096" height="512" />
+    </meta>
+    <slices>
+        <slice id="multiplayer_barn" uvs="0px 0px 256px 256px" />
+        <slice id="multiplayer_tacktor" uvs="256px 0px 256px 256px" />
+        <slice id="multiplayer_scarcrow" uvs="512px 0px 256px 256px" />
+        <slice id="multiplayer_boots" uvs="768px 0px 256px 256px" />
+        <slice id="multiplayer_wood" uvs="1024px 0px 256px 256px" />
+        <slice id="multiplayer_hay" uvs="1280px 0px 256px 256px" />
+        <slice id="multiplayer_cow" uvs="1536px 0px 256px 256px" />
+        <slice id="multiplayer_chicken" uvs="1792px 0px 256px 256px" />
+        <slice id="multiplayer_mower" uvs="2048px 0px 256px 256px" />
+        <slice id="multiplayer_pig" uvs="2304px 0px 256px 256px" />
+        <slice id="multiplayer_chainsaw" uvs="2560px 0px 256px 256px" />
+        <slice id="multiplayer_goat" uvs="2816px 0px 256px 256px" />
+        <slice id="multiplayer_truck" uvs="3072px 0px 256px 256px" />
+        <slice id="multiplayer_apple" uvs="3328px 0px 256px 256px" />
+        <slice id="multiplayer_tornado" uvs="3584px 0px 256px 256px" />
+        <slice id="multiplayer_fox" uvs="3840px 0px 256px 256px" />
+
+        <slice id="multiplayer_grain" uvs="0px 256px 256px 256px" />
+        <slice id="multiplayer_bee" uvs="256px 256px 256px 256px" />
+        <slice id="multiplayer_hedgehog" uvs="512px 256px 256px 256px" />
+        <slice id="multiplayer_stump" uvs="768px 256px 256px 256px" />
+        <slice id="multiplayer_windmill" uvs="1024px 256px 256px 256px" />
+        <slice id="multiplayer_wheelborrow" uvs="1280px 256px 256px 256px" />
+        <slice id="multiplayer_rabbit" uvs="1536px 256px 256px 256px" />
+        <slice id="multiplayer_beet" uvs="1792px 256px 256px 256px" />
+        <slice id="multiplayer_wateringcan" uvs="2048px 256px 256px 256px" />
+        <slice id="multiplayer_spade" uvs="2048px 256px 256px 256px" />
+        <slice id="multiplayer_dairy" uvs="2560px 256px 256px 256px" />
+        <slice id="multiplayer_production" uvs="2816px 256px 256px 256px" />
+        <slice id="multiplayer_transport" uvs="3072px 256px 256px 256px" />
+        <slice id="multiplayer_harvester" uvs="3328px 256px 256px 256px" />
+        <slice id="multiplayer_watertransport" uvs="3584px 256px 256px 256px" />
+        <slice id="multiplayer_backhoo" uvs="3840px 256px 256px 256px" />
+    </slices>
+</texture>

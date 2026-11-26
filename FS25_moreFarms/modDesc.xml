@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="utf-8" standalone="no"?>
+<modDesc descVersion="95">
+    <author>MechNoxer</author>
+    <version>1.0.0.0</version>
+    <title>
+        <en>More Farms</en>
+        <de>Mehr Bauernhöfe</de>
+        <fr>Plus De Fermes</fr>
+        <nl>Meer Boerderijen</nl>
+    </title>
+
+    <description>
+        <en>
+<![CDATA[Elevate your Farming Simulator 25 multiplayer experience with the More Farms mod. The default game restricts multiplayer sessions to a maximum of 8 farms, but this mod expands that limit, allowing up to 30 farms in a single session. Built exclusively for multiplayer, More Farms lets you gather larger groups of players to collaborate, compete, and create thriving farming communities. Redefine the limits of multiplayer farming and make every session more dynamic and inclusive with More Farms!]]>
+        </en>
+        <de>
+<![CDATA[Erweitern Sie Ihr Farming Simulator 25 Multiplayer-Erlebnis mit der More Farms Mod. Das Standardspiel beschränkt Multiplayer-Sitzungen auf maximal 8 Farmen, aber diese Mod erweitert dieses Limit und erlaubt bis zu 30 Farmen in einer einzigen Sitzung. Exklusiv für den Mehrspielermodus entwickelt, können Sie mit More Farms größere Gruppen von Spielern zusammenbringen, um zusammenzuarbeiten, zu konkurrieren und florierende Farmen zu gründen. Definieren Sie die Grenzen des Multiplayer-Farmens neu und machen Sie jede Sitzung dynamischer und inklusiver mit More Farms!]]>
+        </de>
+        <fr>
+<![CDATA[Améliorez votre expérience multijoueur dans Farming Simulator 25 avec le mod More Farms. Le jeu par défaut limite les sessions multijoueurs à un maximum de 8 fermes, mais ce mod étend cette limite, permettant d'avoir jusqu'à 30 fermes dans une même session. Conçu exclusivement pour le multijoueur, More Farms vous permet de rassembler des groupes de joueurs plus importants pour collaborer, s'affronter et créer des communautés agricoles prospères. Redéfinissez les limites de l'agriculture multijoueur et rendez chaque session plus dynamique et plus inclusive avec More Farms !]]>
+        </fr>
+        <nl>
+<![CDATA[Verhoog je Farming Simulator 25 multiplayer ervaring met de More Farms mod. Het standaardspel beperkt multiplayersessies tot maximaal 8 boerderijen, maar deze mod breidt die limiet uit en staat maximaal 30 boerderijen in één sessie toe. More Farms is exclusief gebouwd voor multiplayer en stelt je in staat grotere groepen spelers samen te brengen om samen te werken, te concurreren en bloeiende boerengemeenschappen te creëren. Herdefinieer de grenzen van multiplayer farming en maak elke sessie dynamischer en inclusiever met More Farms!]]>
+        </nl>
+    </description>
+
+    <iconFilename>icon_moreFarms.dds</iconFilename>
+    <multiplayer supported="true" />
+
+    <extraSourceFiles>
+        <sourceFile filename="moreFarms.lua" />
+    </extraSourceFiles>
+</modDesc>
